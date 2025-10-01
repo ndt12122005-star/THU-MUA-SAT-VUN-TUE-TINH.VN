@@ -119,7 +119,7 @@
   <header>Thu Mua Sắt Vụn Tuệ Tĩnh</header>
   <section>
     <h2>Uy tín - Nhanh chóng - Giá cao</h2>
-    <p>Chuyên thu mua sắt vụn, đồng, nhôm, inox, chì, hợp kim... tại TP.HCM và các khu vực lân cận.</p>
+    <p>Chuyên thu mua sắt vụn, đồng, nhôm, inox, chì, hợp kim... tại T.Đ HN và các khu vực lân cận.</p>
   </section>
 
   <!-- Google Maps -->
