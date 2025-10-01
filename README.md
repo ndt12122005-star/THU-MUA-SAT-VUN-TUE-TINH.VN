@@ -133,14 +133,14 @@
 
   <!-- Nút nổi liên hệ -->
   <div class="floating-buttons">
-    <a href="tel:0984365646" class="btn-circle call"><i class="fas fa-phone"></i></a>
-    <a href="https://zalo.me/0984365646" class="btn-circle zalo"><i class="fas fa-comment"></i></a>
+    <a href="tel:0377280664" class="btn-circle call"><i class="fas fa-phone"></i></a>
+    <a href="https://zalo.me/0377280664" class="btn-circle zalo"><i class="fas fa-comment"></i></a>
     <a href="https://m.me/yourfacebookid" class="btn-circle messenger"><i class="fab fa-facebook-messenger"></i></a>
   </div>
 
   <!-- Bong bóng chat nổi -->
   <div class="chat-bubbles">
-    <a href="https://zalo.me/0984365646" class="chat-bubble chat-zalo"><i class="fas fa-comment"></i></a>
+    <a href="https://zalo.me/0377280664" class="chat-bubble chat-zalo"><i class="fas fa-comment"></i></a>
     <a href="https://m.me/yourfacebookid" class="chat-bubble chat-mess"><i class="fab fa-facebook-messenger"></i></a>
   </div>
 </body>
